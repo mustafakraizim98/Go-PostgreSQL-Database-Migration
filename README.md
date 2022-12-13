@@ -5,7 +5,7 @@
 - Go
 - Docker Desktop
 - PostgreSQL - Docker Image
-- ![golang-migrate](https://github.com/golang-migrate/migrate) library
+- [golang-migrate](https://github.com/golang-migrate/migrate) library
 
 ### Optional Prerequisites
 - TablePlus
@@ -14,7 +14,7 @@
   - SQL Shell (psql)
 
 ## Install golang-migrate 
-Let’s open this ![CLI documentation](https://github.com/golang-migrate/migrate/tree/master/cmd/migrate) to see how to install it. I’m on a Windows, so I used Scoop.
+Let’s open this [CLI documentation](https://github.com/golang-migrate/migrate/tree/master/cmd/migrate) to see how to install it. I’m on a Windows, so I used Scoop.
 ```
 $ scoop install migrate
 ```
@@ -132,5 +132,5 @@ func main() {
 ```
 
 ## Sources to follow for more details
-- ![PostgreSQL tutorial for beginners](https://github.com/golang-migrate/migrate/blob/master/database/postgres/TUTORIAL.md)
-- ![How to write & run database migration in Golang ](https://dev.to/techschoolguru/how-to-write-run-database-migration-in-golang-5h6g)
+- [PostgreSQL tutorial for beginners](https://github.com/golang-migrate/migrate/blob/master/database/postgres/TUTORIAL.md)
+- [How to write & run database migration in Golang ](https://dev.to/techschoolguru/how-to-write-run-database-migration-in-golang-5h6g)
